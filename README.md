@@ -19,3 +19,4 @@ JIRA_URL=https://your-jira-domain.atlassian.net
 JIRA_USERNAME=your-email@example.com
 JIRA_PASSWORD=your-api-token
 JIRA_JQL=project = "IT Incident Management"
+
